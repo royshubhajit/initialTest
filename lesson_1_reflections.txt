@@ -1,0 +1,12 @@
+Viewing the files is better as it helps you to visualize the differences and spot them to mark it as differences.
+
+Its very easy to find all the versions of the same file name and you dont need to have multiple file names to store different versions of the same file. Additionally, you can also see the date and time of previous versions which can actually help you track changes.
+
+Manually commiting gives us the flexibility while automatic commit can be misleading as it could save a line of code in between.
+
+
+we can use git log to see the previous versions og the files and themn use git diff amon=g different commits to see the revisions
+
+Pretty easy as we are sure that we can revert back whenever possible without much damage
+
+coding and files
